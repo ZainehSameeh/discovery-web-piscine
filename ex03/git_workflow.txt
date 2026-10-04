@@ -1,0 +1,11 @@
+EDIT
+Created hello.txt and added content to it.
+
+ADD
+git add hello.txt
+
+COMMIT
+git commit -m "Created hello.txt file"
+
+PUSH
+git push -u origin main

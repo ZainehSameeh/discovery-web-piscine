@@ -1,0 +1,40 @@
+.:
+total 4
+drwxr-xr-x.  5 zaalmoma zaalmoma   51 Oct  1 11:07 .
+drwx------  26 zaalmoma zaalmoma 4096 Oct  1 11:15 ..
+drwxr-xr-x.  2 zaalmoma zaalmoma    6 Oct  1 11:07 archives
+drwxr-xr-x.  3 zaalmoma zaalmoma   17 Oct  1 11:08 projects
+drwxr-xr-x.  2 zaalmoma zaalmoma    6 Oct  1 11:07 tools
+
+./archives:
+total 0
+drwxr-xr-x. 2 zaalmoma zaalmoma  6 Oct  1 11:07 .
+drwxr-xr-x. 5 zaalmoma zaalmoma 51 Oct  1 11:07 ..
+
+./projects:
+total 0
+drwxr-xr-x. 3 zaalmoma zaalmoma 17 Oct  1 11:08 .
+drwxr-xr-x. 5 zaalmoma zaalmoma 51 Oct  1 11:07 ..
+drwxr-xr-x. 4 zaalmoma zaalmoma 37 Oct  1 11:08 web
+
+./projects/web:
+total 0
+drwxr-xr-x. 4 zaalmoma zaalmoma 37 Oct  1 11:08 .
+drwxr-xr-x. 3 zaalmoma zaalmoma 17 Oct  1 11:08 ..
+drwxr-xr-x. 2 zaalmoma zaalmoma  6 Oct  1 11:08 backend
+drwxr-xr-x. 2 zaalmoma zaalmoma  6 Oct  1 11:08 frontend
+
+./projects/web/backend:
+total 0
+drwxr-xr-x. 2 zaalmoma zaalmoma  6 Oct  1 11:08 .
+drwxr-xr-x. 4 zaalmoma zaalmoma 37 Oct  1 11:08 ..
+
+./projects/web/frontend:
+total 0
+drwxr-xr-x. 2 zaalmoma zaalmoma  6 Oct  1 11:08 .
+drwxr-xr-x. 4 zaalmoma zaalmoma 37 Oct  1 11:08 ..
+
+./tools:
+total 0
+drwxr-xr-x. 2 zaalmoma zaalmoma  6 Oct  1 11:07 .
+drwxr-xr-x. 5 zaalmoma zaalmoma 51 Oct  1 11:07 ..
